@@ -1,0 +1,5 @@
+A = rand(3)
+column_max = max(A)
+row_max = max(A')
+overall = max(row_max')
+k = find(A>0.25)
