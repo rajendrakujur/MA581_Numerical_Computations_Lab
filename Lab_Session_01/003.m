@@ -1,0 +1,10 @@
+n = input("Enter matrix size :");
+A = magic(n);
+p = randperm(n);
+q = randperm(n);
+A = A(p,q);
+sum(A);
+sum(A');
+sum(diag(A));
+sum(diag(flipud(A)));
+rank(A);
