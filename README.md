@@ -4,4 +4,4 @@ M.Tech Data Science First Year
 
 Repository for CS594: Python Programming Laboratory offered by Prof. Rafikul Alam during Fall 2021 @IIT Guwahati
 
-Here I have put all the solution for the assignments given during the entire coursework
+Here I have put some of the solution for the assignments given during the coursework
